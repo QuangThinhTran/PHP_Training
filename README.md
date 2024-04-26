@@ -1,4 +1,4 @@
-# ncc-php
+# Laravel
 
 ## The big picture
 
@@ -64,8 +64,7 @@ Note that this is not an exhaustive list, but it covers many of the core skills 
 10. NoSQL databases
 11. Realtime application
 12. Role and permission
-13. [NCC React Basic](https://nccasia.github.io/ncc-react-basic/)
-14. [Other Interview questions](./others/interview.md)
+13. [Other Interview questions](./others/interview.md)
 
 ## Useful Links:
 
